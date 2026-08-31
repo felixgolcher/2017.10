@@ -1,6 +1,6 @@
 # Ständig interessante Dateien
 
-derzeit noch keine.
+Scans von [Buch 9](mathe/arbeitsmaterial/buch-9-scans.pdf). Nur ausgewählte Seiten.
 
 # Die aktuellen Aufgaben/Dateien 
 
