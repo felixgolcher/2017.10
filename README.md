@@ -2,6 +2,8 @@
 
 Scans von [Buch 9](mathe/arbeitsmaterial/buch-9-scans.pdf). Nur ausgewählte Seiten.
 
+Die [Checkliste](mathe/checkliste-mathe-1.pdf) für die 1. Mathe-KA.
+
 # Die aktuellen Aufgaben/Dateien 
 
 ## 2026-08-29
