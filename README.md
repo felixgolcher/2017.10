@@ -6,7 +6,9 @@ Scans von [Buch 9](mathe/arbeitsmaterial/buch-9-scans.pdf). Nur ausgewählte Sei
 
 ## 2026-08-29
 
-Die Mitschrift von [Freitag](mathe/mitschriften_und_texte/2026-08-28-bemerkungen-koerper.pdf).
+Die Mitschrift von [Montag](mathe/mitschriften_und_texte/02_2026-09-01-hoehen-in-und-ums-dreieck.pdf).
+
+Die Mitschrift von [Freitag](mathe/mitschriften_und_texte/01_2026-08-28-bemerkungen-koerper.pdf).
 
 # Über dieses Verzeichnis
 
