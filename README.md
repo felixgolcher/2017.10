@@ -8,6 +8,12 @@ Die [Checkliste](mathe/checkliste-mathe-1.pdf) für die 1. Mathe-KA.
 
 Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Beispiel in `mathe/arbeitsmaterial`. 
 
+## 2026-09-06
+
+[Mitschrift](mathe/mitschriften_und_texte/04_2026-09-04_textaufgaben.pdf) von Freitag.
+
+Der [Test](mathe/arbeitsmaterial/aufg-01-test-1-2026-09-04.pdf) und seine [Lösung](mathe/arbeitsmaterial/loes-01-test-1-2026-09-04.pdf).
+
 ## 2026-09-05
 
 Der [Test](mathe/arbeitsmaterial/aufg-01-test-1-2026-09-04.pdf) vom Freitag.
