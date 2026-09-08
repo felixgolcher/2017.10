@@ -1,5 +1,7 @@
 # Ständig interessante Dateien
 
+Alle Quize (Quizze? Quizzes?) sind immer unter [`mathe/quiz`](mathe/quiz).
+
 Scans von [Buch 9](mathe/arbeitsmaterial/buch-9-scans.pdf). Nur ausgewählte Seiten.
 
 Die [Checkliste](mathe/checkliste-mathe-1.pdf) für die 1. Mathe-KA.
