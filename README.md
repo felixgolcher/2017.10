@@ -10,6 +10,13 @@ Die [Checkliste](mathe/checkliste-mathe-1.pdf) für die 1. Mathe-KA.
 
 Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Beispiel in `mathe/arbeitsmaterial`. 
 
+## 2026-09-09
+
+Die 3 kleinen Lernapps:
+* [Volumeneinheiten](https://learningapps.org/watch?v=pvahmas5a26)
+* [Längeneinheiten](https://learningapps.org/watch?v=pfqthvxrc26)
+* [Flächeneinheiten](https://learningapps.org/watch?v=pourcth6526)
+
 ## 2026-09-08
 
 [Arbeitsblatt 2](mathe/arbeitsmaterial/aufg-02-einheiten-2026-09-08.pdf)
