@@ -19,7 +19,7 @@ Die 3 kleinen Lernapps:
 
 ## 2026-09-08
 
-[Arbeitsblatt 2](mathe/arbeitsmaterial/aufg-02-einheiten-2026-09-08.pdf)
+[Arbeitsblatt 2](mathe/arbeitsmaterial/aufg-02-einheiten-2026-09-08.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-02-einheiten-2026-09-08.pdf)
 
 ## 2026-09-06
 
