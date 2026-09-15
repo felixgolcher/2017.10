@@ -1,43 +1,16 @@
 # Ständig interessante Dateien
 
-Alle Quize (Quizze? Quizzes?) sind immer unter [`mathe/quiz`](mathe/quiz).
+Alle Quize (Quizze? Quizzes?) sind immer unter [`physik/quiz`](physik/quiz).
 
-Scans von [Buch 9](mathe/arbeitsmaterial/buch-9-scans.pdf). Nur ausgewählte Seiten.
-
-Die [Checkliste](mathe/checkliste-mathe-1.pdf) für die 1. Mathe-KA.
+Die [Checkliste](physik/checkliste-physik-1.pdf) für die 1. Physik-KA.
 
 # Die aktuellen Aufgaben/Dateien 
 
 Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Beispiel in `mathe/arbeitsmaterial`. 
 
-## 2026-09-09
+## 2026-09-15
 
-Die 3 kleinen Lernapps:
-* [Volumeneinheiten](https://learningapps.org/watch?v=pvahmas5a26)
-* [Längeneinheiten](https://learningapps.org/watch?v=pfqthvxrc26)
-* [Flächeneinheiten](https://learningapps.org/watch?v=pourcth6526)
-
-## 2026-09-08
-
-[Arbeitsblatt 2](mathe/arbeitsmaterial/aufg-02-einheiten-2026-09-08.pdf) mit [Lösung](mathe/arbeitsmaterial/loes-02-einheiten-2026-09-08.pdf)
-
-## 2026-09-06
-
-[Mitschrift](mathe/mitschriften_und_texte/04_2026-09-04_textaufgaben.pdf) von Freitag.
-
-Der [Test](mathe/arbeitsmaterial/aufg-01-test-1-2026-09-04.pdf) und seine [Lösung](mathe/arbeitsmaterial/loes-01-test-1-2026-09-04.pdf).
-
-## 2026-09-05
-
-Der [Test](mathe/arbeitsmaterial/aufg-01-test-1-2026-09-04.pdf) vom Freitag.
-
-
-## 2026-08-29
-
-
-Die Mitschrift von [Montag](mathe/mitschriften_und_texte/02_2026-09-01-hoehen-in-und-ums-dreieck.pdf).
-
-Die Mitschrift von [Freitag](mathe/mitschriften_und_texte/01_2026-08-28-bemerkungen-koerper.pdf).
+Das [Arbeitsblatt](physik/arbeitsmaterial/aufg-02-kraefte-zerlegen-2026-09-15.pdf) zum Kräfte zerlegen.
 
 # Über dieses Verzeichnis
 
