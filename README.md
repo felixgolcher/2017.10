@@ -10,7 +10,7 @@ Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Be
 
 ## 2026-09-15
 
-Das [Arbeitsblatt](physik/arbeitsmaterial/aufg-02-kraefte-zerlegen-2026-09-15.pdf) zum Kräfte zerlegen.
+Das [Arbeitsblatt](physik/arbeitsmaterial/aufg-02-kraefte-zerlegen-2026-09-15.pdf) zum Kräfte zerlegen. ([Lösung](physik/arbeitsmaterial/aufg-02-kraefte-zerlegen-2026-09-15-loes.pdf))
 
 # Über dieses Verzeichnis
 
