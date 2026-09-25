@@ -6,7 +6,13 @@ Die [Checkliste](physik/checkliste-physik-1.pdf) für die 1. Physik-KA.
 
 # Die aktuellen Aufgaben/Dateien 
 
-Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Beispiel in `mathe/arbeitsmaterial`. 
+Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Beispiel in `mathe/arbeitsmaterial` (und entsprechend für Physik).
+
+Mitschriften finden sich zum Beispiel in `physik/mitschsriften_und_texte` (entsprechend für Mathe).
+
+## 2026-09-25
+
+Der Test von heute zum Beispiel: [ER](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-er.pdf), [GR](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-gr.pdf), [ER Lösung](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-er-loes.pdf), [GR Lösung](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-gr-loes.pdf)
 
 ## 2026-09-15
 
