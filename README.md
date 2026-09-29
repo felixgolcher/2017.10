@@ -11,6 +11,8 @@ Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Be
 Mitschriften finden sich zum Beispiel in `physik/mitschsriften_und_texte` (entsprechend für Mathe).
 
 
+Das [Blatt von heute zu den Einhheiten](mathe/arbeitsmaterial/aufg-05-einheiten-2026-09-22.pdf) ist bei Mathe einsortiert. [Lösung](mathe/arbeitsmaterial/aufg-05-einheiten-2026-09-22-loes.pdf)
+
 ## 2026-09-25
 
 Der Test von heute zum Beispiel: [ER](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-er.pdf), [GR](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-gr.pdf), [ER Lösung](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-er-loes.pdf), [GR Lösung](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-gr-loes.pdf)
