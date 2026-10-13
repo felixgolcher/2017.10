@@ -10,6 +10,15 @@ Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Be
 
 Mitschriften finden sich zum Beispiel in `physik/mitschsriften_und_texte` (entsprechend für Mathe).
 
+## 2026-10-13
+
+Das [behandelte Blatt](mathe/arbeitsmaterial/aufg-06-prozent-2026-09-22.pdf) zur prozentualen Änderung.
+
+## 2026-10-05
+
+Wir sind jetzt wieder in `mathe`. Entsprechend ist die Mitschrift von heute hier zu finden: [`mathe/mitschriften_und_texte/08_2026-10-05_prozent_neu_aufgerollt.pdf`](mathe/mitschriften_und_texte/08_2026-10-05_prozent_neu_aufgerollt.pdf).
+
+## 2026-09-22
 
 Das [Blatt von heute zu den Einhheiten](mathe/arbeitsmaterial/aufg-05-einheiten-2026-09-22.pdf) ist bei Mathe einsortiert. [Lösung](mathe/arbeitsmaterial/aufg-05-einheiten-2026-09-22-loes.pdf)
 
