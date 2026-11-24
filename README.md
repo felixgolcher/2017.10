@@ -10,25 +10,13 @@ Ihr könnt Euch auch immer durchklicken. Mathearbeitsblätter finden sich zum Be
 
 Mitschriften finden sich zum Beispiel in `physik/mitschsriften_und_texte` (entsprechend für Mathe).
 
-## 2026-10-13
+## 2026-11-24
 
-Das [behandelte Blatt](mathe/arbeitsmaterial/aufg-06-prozent-2026-09-22.pdf) zur prozentualen Änderung.
+Die Mitschrift von heute ist eine aktualisierte Version der Mitschrift von gestern.
 
-## 2026-10-05
+Den Test habe ich auch hier hochgestellt, er findet sich bei den Arbeitsblättern.
 
-Wir sind jetzt wieder in `mathe`. Entsprechend ist die Mitschrift von heute hier zu finden: [`mathe/mitschriften_und_texte/08_2026-10-05_prozent_neu_aufgerollt.pdf`](mathe/mitschriften_und_texte/08_2026-10-05_prozent_neu_aufgerollt.pdf).
-
-## 2026-09-22
-
-Das [Blatt von heute zu den Einhheiten](mathe/arbeitsmaterial/aufg-05-einheiten-2026-09-22.pdf) ist bei Mathe einsortiert. [Lösung](mathe/arbeitsmaterial/aufg-05-einheiten-2026-09-22-loes.pdf)
-
-## 2026-09-25
-
-Der Test von heute zum Beispiel: [ER](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-er.pdf), [GR](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-gr.pdf), [ER Lösung](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-er-loes.pdf), [GR Lösung](physik/arbeitsmaterial/aufg-12-test-1-2026-09-25-gr-loes.pdf)
-
-## 2026-09-15
-
-Das [Arbeitsblatt](physik/arbeitsmaterial/aufg-02-kraefte-zerlegen-2026-09-15.pdf) zum Kräfte zerlegen. ([Lösung](physik/arbeitsmaterial/aufg-02-kraefte-zerlegen-2026-09-15-loes.pdf))
+Die Checkliste ist direkt im Matheverzeichnis.
 
 # Über dieses Verzeichnis
 
